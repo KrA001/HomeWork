@@ -59,7 +59,7 @@
         android:layout_height="75dp"
         android:layout_gravity="center_horizontal"
         android:backgroundTint="@color/red"
-        android:text="Выход"
+        android:text="Вход"
         android:textSize="20sp"
         app:cornerRadius="20dp" />
 
